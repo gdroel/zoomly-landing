@@ -1,0 +1,48 @@
+.iphone-wrapper{
+
+  padding: 65px;
+
+}
+
+h1,p{
+
+  color:white;
+}
+
+body{
+
+  background-color: #3498db
+}
+
+.info-wrapper{
+
+  padding-top: 100px;
+}
+
+p{
+
+  font-size: 18px;
+  text-align: center;
+  padding-bottom: 25px;
+
+}
+
+.small{
+
+  margin-top: 10px;
+  font-size: 12px;
+}
+
+small{
+
+  padding-top: 5px;
+  text-align: center;
+  margin: 0 auto;
+}
+h1{
+
+  font-family: 'Pacifico';
+  font-size:100px;
+  padding-bottom: 40px;
+  text-align: center;
+}
