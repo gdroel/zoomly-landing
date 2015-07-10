@@ -1,7 +1,17 @@
 .iphone-wrapper{
 
-  padding: 65px;
+  padding: 62px;
 
+}
+
+.form-control{
+
+  margin-top: -20px;
+}
+
+i{
+
+  margin-top: -15px;
 }
 
 h1,p{
